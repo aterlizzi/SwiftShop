@@ -66,7 +66,7 @@
 				10AAFE11285A52B80028016D /* Views */,
 				10AAFE0E285A50F00028016D /* Components */,
 				10AAFDFD285A4D6C0028016D /* SwiftShopDemoApp.swift */,
-				10AAFE0B285A4F920028016D /* Models */,
+				10AAFE0B285A4F920028016D /* models */,
 				10AAFE01285A4D6D0028016D /* Assets.xcassets */,
 				10AAFE03285A4D6D0028016D /* Preview Content */,
 				10AAFE16285A57550028016D /* CartManager.swift */,
@@ -82,12 +82,12 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		10AAFE0B285A4F920028016D /* Models */ = {
+		10AAFE0B285A4F920028016D /* models */ = {
 			isa = PBXGroup;
 			children = (
 				10AAFE1A285A5BFF0028016D /* Product.swift */,
 			);
-			path = Models;
+			path = models;
 			sourceTree = "<group>";
 		};
 		10AAFE0E285A50F00028016D /* Components */ = {
