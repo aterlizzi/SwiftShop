@@ -11,7 +11,7 @@ struct ProductCard: View {
     @EnvironmentObject var cartManager: CartManager
     
     var product: Product
-    
+
     var body: some View {
         ZStack(alignment: .topTrailing) {
             ZStack(alignment: .bottom) {
